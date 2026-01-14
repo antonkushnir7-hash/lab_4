@@ -15,6 +15,12 @@
   "type": "commonjs",
   "main": "lab4.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm lab4.js"
+  },
+  "dependencies": {
+    "commander": "^14.0.2",
+    "fast-xml-parser": "^5.3.3",
+    "nodemon": "^3.1.11"
   }
 }
