@@ -1,0 +1,20 @@
+{
+  "name": "bc2025-4",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/antonkushnir7-hash/lab_4#readme",
+  "bugs": {
+    "url": "https://github.com/antonkushnir7-hash/lab_4/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antonkushnir7-hash/lab_4.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "lab4.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
